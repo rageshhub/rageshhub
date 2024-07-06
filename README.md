@@ -20,7 +20,6 @@ Feel free to reach out if you:
 ### Contact Me
 - 📧 Email: [snrgrageshcv@gmail.com](mailto:snrgrageshcv@gmail.com)
 - 💼 LinkedIn: [Ragesh Ganeshkumar](https://www.linkedin.com/in/rageshganeshkumar/) (I promise I won't spam you with automation scripts... or will I? 🤔)
-- 📄 Resume: [View My Resume](#) (But beware, it might be too awesome to handle! 😂)
 
 Together, let’s make life a bit easier, one line of code at a time!
 
