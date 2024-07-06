@@ -19,7 +19,7 @@ Feel free to reach out if you:
 
 ### Contact Me
 - 📧 Email: [snrgrageshcv@gmail.com](mailto:snrgrageshcv@gmail.com)
-- 💼 **LinkedIn**: [Ragesh Ganeshkumar](https://www.linkedin.com/in/rageshganeshkumar/) – Scrolling through my profile won't automate your job, but connecting might just automate your network! 🤖 (P.S. I'm mostly harmless... until I deploy the scripts! 😜)
+- 💼 LinkedIn: [Ragesh Ganeshkumar](https://www.linkedin.com/in/rageshganeshkumar/) – Scrolling through my profile won't automate your job, but connecting might just automate your network! 🤖 (P.S. I'm mostly harmless... until I deploy the scripts! 😜)
 
 
 Together, let’s make life a bit easier, one line of code at a time!
