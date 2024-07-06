@@ -26,6 +26,8 @@ Email me at: [snrgrageshcv@gmail.com](mailto:snrgrageshcv@gmail.com)
 
 Or connect with me on LinkedIn: [Ragesh Ganeshkumar](https://www.linkedin.com/in/rageshganeshkumar/) (I promise I won't spam you with automation scripts... or will I? 🤔)
 
+And if you’re really interested, you can take a peek at my [Resume](#) (But beware, it might be too awesome to handle! 😂)
+
 Together, let’s make life a bit easier, one line of code at a time!
 
 ## 💻 Tech Stack:
